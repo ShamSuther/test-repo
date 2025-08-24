@@ -1,1 +1,1 @@
-Adding a new line 
+Adding a new line and Made this changes on GitHub UI for simulating merge conflict 😁
